@@ -1,0 +1,1 @@
+from cotacoes.routes import cotacoes_bp
