@@ -5,3 +5,4 @@ asgiref
 flask_sqlalchemy
 flask_bcrypt
 flask_login
+requests
